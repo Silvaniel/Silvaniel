@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Silvaniel
--   I'm the first period of systems analysis and development 
-- 🌱 I’m currently studyng web developement and learning english ...
+-  Hi, I’m @Silvaniel
+-  I'm the first period of systems analysis and development
+-  I'm currently studyng web developement and learning english ...
   
 
 
